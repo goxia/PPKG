@@ -14,24 +14,24 @@ This repository provides **Windows Provisioning Packages (PPKG)** and **project 
 ---
 
 ## 📂 Repository Structure
-- **`/packages/`**  
+- **`/package/`**  
   Pre-built `.ppkg` files ready to apply directly on Windows systems.
   
-- **`/projects/`**  
-  Windows Configuration Designer project files (`.proj`, etc.) for learning and customization.
+- **`/project/`**  
+  Windows Configuration Designer project files (`.icdproj.xml`, etc.) for learning and customization.
 
 ---
 
 ## 🚀 How to Use
 
 ### 1. **Apply PPKG Directly**
-1. Download the `.ppkg` file from the `/packages/` folder.
+1. Download the `.ppkg` file from the `/package/` folder.
 2. Double-click the `.ppkg` on the target Windows device.
 3. Follow the prompts to complete configuration.
 
 ### 2. **Edit and Customize**
 1. Install **Windows Configuration Designer**.
-2. Open the project file from the `/projects/` folder.
+2. Open the project file from the `/project/` folder.
 3. Modify the settings as needed.
 4. Build a new `.ppkg` file and deploy it.
 

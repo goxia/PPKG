@@ -14,24 +14,24 @@
 ---
 
 ## 📂 内容说明
-- **`/packages/`**  
+- **`/package/`**  
   已编译好的 `.ppkg` 文件，直接在 Windows 系统中应用即可。
   
-- **`/projects/`**  
-  Windows Configuration Designer 工程文件（`.proj` 等），可用于学习和二次编辑。
+- **`/project/`**  
+  Windows Configuration Designer 工程文件（`.icdproj.xml` 等），可用于学习和二次编辑。
 
 ---
 
 ## 🚀 使用方法
 
 ### 1. **直接应用 PPKG**
-1. 下载 `/packages/` 文件夹中的 `.ppkg` 文件
+1. 下载 `/package/` 文件夹中的 `.ppkg` 文件
 2. 在目标 Windows 设备上，双击运行 `.ppkg`
 3. 按提示完成配置
 
 ### 2. **编辑与自定义**
 1. 安装 **Windows Configuration Designer**
-2. 打开 `/projects/` 文件夹中的项目文件
+2. 打开 `/project/` 文件夹中的项目文件
 3. 根据需求修改设置
 4. 生成新的 `.ppkg` 文件并部署
 
