@@ -1,0 +1,2 @@
+# Automated OOBE
+This Automated OOBE PPKG will help users execute automated configuration in the Windows OOBE, which is the welcome screen encountered at first boot, reducing user intervention and allowing access to the desktop using the Administrator account.
