@@ -1,0 +1,14 @@
+8/15/2025 6:20:03 PM Info ICD Started
+8/15/2025 6:20:09 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+8/15/2025 6:20:09 PM Warning Exception on reading AutoLaunchConfigScenarioId. appSettings 配置节中不存在项“AutoLaunchConfigScenarioId”。
+8/15/2025 6:20:09 PM Warning Exception on reading SUSPCAriaIngestionKey. appSettings 配置节中不存在项“SUSPCAriaIngestionKey”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowTitle. appSettings 配置节中不存在项“ICDWindowTitle”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowHeight. appSettings 配置节中不存在项“ICDWindowHeight”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowWidth. appSettings 配置节中不存在项“ICDWindowWidth”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowMinHeight. appSettings 配置节中不存在项“ICDWindowMinHeight”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowMinWidth. appSettings 配置节中不存在项“ICDWindowMinWidth”。
+8/15/2025 6:20:09 PM Warning Exception on reading ICDWindowState. appSettings 配置节中不存在项“ICDWindowState”。
+8/15/2025 6:20:30 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2025.416.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/15/2025 6:20:30 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/15/2025 6:20:30 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2025.416.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_2025.416.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/15/2025 6:20:30 PM Info Loaded settings from Windows Unknown Unknown
