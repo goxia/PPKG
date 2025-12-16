@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WindowsCustomizations>
+  <PackageConfig xmlns="urn:schemas-Microsoft-com:Windows-ICD-Package-Config.v1.0">
+    <ID>{129d0692-a03b-4c99-be4d-bb2b40b3d04f}</ID>
+    <Name>DisablePrivacyExperience</Name>
+    <Version>1.1</Version>
+    <OwnerType>ITAdmin</OwnerType>
+    <Rank>0</Rank>
+    <Notes></Notes>
+  </PackageConfig>
+  <Settings xmlns="urn:schemas-microsoft-com:windows-provisioning">
+    <Customizations>
+      <Common>
+        <ProvisioningCommands>
+          <PrimaryContext>
+            <Command>
+              <CommandConfig Name="DisablePrivacyExperience">
+                <CommandLine>reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OOBE" /v "DisablePrivacyExperience" /t REG_DWORD /d 1 /f</CommandLine>
+              </CommandConfig>
+            </Command>
+          </PrimaryContext>
+        </ProvisioningCommands>
+      </Common>
+    </Customizations>
+  </Settings>
+</WindowsCustomizations>

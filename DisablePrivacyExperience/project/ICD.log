@@ -1,0 +1,72 @@
+12/16/2025 12:18:19 PM Info Project 'DisablePrivacyExperience' created successfully and added to workspace
+12/16/2025 12:19:44 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-privacy#letappsactivatewithvoice
+12/16/2025 12:19:47 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-privacy#letappsactivatewithvoice
+12/16/2025 12:19:47 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-privacy#letappsactivatewithvoiceabovelock
+12/16/2025 12:19:59 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-privacy#letappsactivatewithvoice
+12/16/2025 12:20:14 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-printers#configureipptlscertificatepolicy
+12/16/2025 12:20:16 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-printers#configureipptlscertificatepolicy
+12/16/2025 12:20:21 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#clouddesktop
+12/16/2025 12:20:23 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#clouddesktop
+12/16/2025 12:20:47 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#clouddesktop
+12/16/2025 12:20:51 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#experience
+12/16/2025 12:20:57 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#experience
+12/16/2025 12:21:01 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#experience
+12/16/2025 12:21:02 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#experience
+12/16/2025 12:21:13 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:21:15 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:21:37 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:21:41 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:21:43 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#security
+12/16/2025 12:21:46 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#settings
+12/16/2025 12:21:51 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#windowsai
+12/16/2025 12:21:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#windowslogon
+12/16/2025 12:22:02 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:22:06 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:23:15 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#privacy
+12/16/2025 12:23:38 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#timelanguagesettings
+12/16/2025 12:23:39 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#timelanguagesettings
+12/16/2025 12:23:41 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#update
+12/16/2025 12:23:46 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#virtualizationbasedtechnology
+12/16/2025 12:23:49 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#wifi
+12/16/2025 12:23:54 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#windowsinkworkspace
+12/16/2025 12:24:00 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-policies#windowslogon
+12/16/2025 12:24:07 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:24:09 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:24:12 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:24:23 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-sharedpc#enablesharedpcmode
+12/16/2025 12:24:24 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:24:37 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:24:48 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#devicecontext
+12/16/2025 12:25:28 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/16/2025 12:25:32 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/16/2025 12:25:56 PM Info Start 预配包 Build for Project: DisablePrivacyExperience
+12/16/2025 12:26:03 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-841_18596.22_1687026155.1'
+12/16/2025 12:26:03 PM Info Adding runtime settings to Provisioning Package
+12/16/2025 12:26:03 PM Info CreateTempDirectory: Create directory: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-871_18596.22_1388708620.2
+12/16/2025 12:26:03 PM Info provxml writer, path = C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-871_18596.22_1388708620.2\Prov\RunTime\0__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+12/16/2025 12:26:03 PM Info Adding deployment settings to Provisioning Package
+12/16/2025 12:26:03 PM Info Adding file assets to Provisioning Package
+12/16/2025 12:26:03 PM Info CopyFile: Source path: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-942_18596.22_1505615484.cat, Target path: C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.cat
+12/16/2025 12:26:03 PM Info CopyFile: Source path: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-841_18596.22_1687026155.1, Target path: C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.ppkg
+12/16/2025 12:26:03 PM Info DeleteFile: File '' does not exist
+12/16/2025 12:26:03 PM Info DeleteFile: File 'C:\Users\sufan\AppData\Local\Temp\ICD_20251216-122603-841_18596.22_1687026155.1' does not exist
+12/16/2025 12:26:03 PM Info Media Creation Build Success page
+12/16/2025 12:26:04 PM Info Build workflow finished.
+12/16/2025 12:42:22 PM Info Project 'DisablePrivacyExperience' created successfully and added to workspace
+12/16/2025 12:42:25 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/16/2025 12:42:27 PM Info Navigating to URI https://docs.microsoft.com/windows/configuration/wcd/wcd-provisioningcommands#primarycontext
+12/16/2025 12:42:37 PM Info Start 预配包 Build for Project: DisablePrivacyExperience
+12/16/2025 12:42:45 PM Info Exporting customizations as a Provisioning Package to 'C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-155_24572.6_634101990.1'
+12/16/2025 12:42:45 PM Info Adding runtime settings to Provisioning Package
+12/16/2025 12:42:45 PM Info CreateTempDirectory: Create directory: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-180_24572.6_505747884.2
+12/16/2025 12:42:45 PM Info provxml writer, path = C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-180_24572.6_505747884.2\Prov\RunTime\0__ProvisioningCommands_PrimaryContext_Command_0_CommandLine.provxml
+12/16/2025 12:42:45 PM Info Adding deployment settings to Provisioning Package
+12/16/2025 12:42:45 PM Info Adding file assets to Provisioning Package
+12/16/2025 12:42:45 PM Info CopyFile: File 'C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.cat' exist and called with overwrite
+12/16/2025 12:42:45 PM Info CopyFile: Source path: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-256_24572.6_1491818912.cat, Target path: C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.cat
+12/16/2025 12:42:45 PM Info CopyFile: File 'C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.ppkg' exist and called with overwrite
+12/16/2025 12:42:45 PM Info CopyFile: Source path: C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-155_24572.6_634101990.1, Target path: C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.ppkg
+12/16/2025 12:42:45 PM Info DeleteFile: File '' does not exist
+12/16/2025 12:42:45 PM Info DeleteFile: File 'C:\Users\sufan\AppData\Local\Temp\ICD_20251216-124245-155_24572.6_634101990.1' does not exist
+12/16/2025 12:42:45 PM Info Media Creation Build Success page
+12/16/2025 12:42:46 PM Info Build workflow finished.

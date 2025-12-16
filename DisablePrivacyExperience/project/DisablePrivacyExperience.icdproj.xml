@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ICDProject
+  Name="DisablePrivacyExperience"
+  Description=""
+  Version="10.0.28000.1"
+  Id="{129d0692-a03b-4c99-be4d-bb2b40b3d04f}"
+  TemplateName="预配包"
+  TemplateType="ProvisioningPackage">
+  <TargetEditions>
+    <Sku>
+      <StoreType>File</StoreType>
+      <Name>所有 Windows 桌面版本</Name>
+      <SourcePath>Microsoft-Desktop-Provisioning.dat</SourcePath>
+      <Edition>Desktop</Edition>
+      <Version>10.0</Version>
+      <Description>选择此选项将显示特定于桌面版本的设置以及所有 Windows 版本通用的设置。</Description>
+    </Sku>
+  </TargetEditions>
+</ICDProject>

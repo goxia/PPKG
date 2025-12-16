@@ -1,0 +1,21 @@
+12/16/2025 12:17:40 PM Info ICD Started
+12/16/2025 12:17:43 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+12/16/2025 12:17:43 PM Warning Exception on reading AutoLaunchConfigScenarioId. appSettings 配置节中不存在项“AutoLaunchConfigScenarioId”。
+12/16/2025 12:17:43 PM Warning Exception on reading ICDWindowTitle. appSettings 配置节中不存在项“ICDWindowTitle”。
+12/16/2025 12:17:43 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+12/16/2025 12:17:43 PM Info ICDWindowTitle: 
+12/16/2025 12:18:18 PM Info Loaded Knobs schema hive at C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+12/16/2025 12:18:18 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+12/16/2025 12:18:18 PM Error     No SKU information file C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+12/16/2025 12:18:18 PM Info Loaded settings from Windows Unknown Unknown
+12/16/2025 12:42:18 PM Info ICD Started
+12/16/2025 12:42:20 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+12/16/2025 12:42:20 PM Warning Exception on reading AutoLaunchConfigScenarioId. appSettings 配置节中不存在项“AutoLaunchConfigScenarioId”。
+12/16/2025 12:42:20 PM Warning Exception on reading ICDWindowTitle. appSettings 配置节中不存在项“ICDWindowTitle”。
+12/16/2025 12:42:20 PM Info AutoLaunchConfigScenarioId: 00000000-0000-0000-0000-000000000000
+12/16/2025 12:42:20 PM Info ICDWindowTitle: 
+12/16/2025 12:42:21 PM Info Project 'C:\Users\sufan\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\DisablePrivacyExperience\DisablePrivacyExperience.icdproj.xml' loaded successfully
+12/16/2025 12:42:21 PM Info Loaded Knobs schema hive at C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+12/16/2025 12:42:21 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+12/16/2025 12:42:21 PM Error     No SKU information file C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Imaging and Configuration Designer\x86\Microsoft-Desktop-Provisioning.dat
+12/16/2025 12:42:21 PM Info Loaded settings from Windows Unknown Unknown
